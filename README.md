@@ -17,5 +17,5 @@
 
 # users
 
-* user_1@gmail.com@password
-* user_2@gmail.com@password
+* user_1@gmail.com : password
+* user_2@gmail.com : password
