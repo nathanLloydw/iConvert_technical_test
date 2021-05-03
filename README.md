@@ -14,3 +14,8 @@
 4. php artisan migrate:fresh --seed 
 5. php artisan serve
 6. php artisan test
+
+# users
+
+* user_1@gmail.com@password
+* user_2@gmail.com@password
