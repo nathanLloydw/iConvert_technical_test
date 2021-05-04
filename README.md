@@ -1,12 +1,15 @@
-# stack
+# iconvert_technical_test
 
+## synopsis
+
+## stack
 * PHP
 * Laravel
 * Vue Js
 * Tailwind CSS
 * laravel jetstream interia 
 
-# set up
+## set up
 
 1. composer install
 2. npm install
@@ -15,7 +18,7 @@
 5. php artisan serve
 6. php artisan test
 
-# users
+## users
 
 * user_1@gmail.com : password
 * user_2@gmail.com : password
