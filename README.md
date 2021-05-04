@@ -2,6 +2,8 @@
 
 ## synopsis
 
+An authenticated system used to add, remove, edit and delete campaigns through a Laravel API and vue js based front end system.
+
 ## stack
 * PHP
 * Laravel
